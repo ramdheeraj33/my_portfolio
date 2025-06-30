@@ -16,7 +16,7 @@ const Projects = () => {
       description: "A privacy-first, offline Retrieval Augmented Generation (RAG) chatbot for querying uploaded PDF documents. It uses LangChain with TinyLLaMA via llama.cpp, stores document embeddings in ChromaDB, and supports multi-turn dialogue using Streamlit UI. Useful for legal, academic, or personal document analysis without exposing data to cloud models.",
       skills: ["RAG", "LangChain", "TinyLLaMA", "ChromaDB", "Streamlit"],
       githubUrl: "https://github.com/ramdheeraj33/rag-pdf-chatbot",
-      image: "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=800&h=400&fit=crop",
+      image: "https://tse2.mm.bing.net/th/id/OIP.W4qv5HJhxUPpUkBoAj0BTwHaHa?pid=Api",
       gradient: "from-blue-800 to-blue-900"
     },
     {

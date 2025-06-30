@@ -44,8 +44,7 @@ const Header = () => {
         <div className="flex flex-col lg:flex-row items-center gap-16">
           <div className="flex-shrink-0">
             <img 
-              src="/lovable-uploads/5a21f154-0913-4fdf-871f-e3b7ddcc4cb0.png" 
-              alt="Ram Dheeraj Kamarajugadda"
+              src="/my_portfolio/assets/profile.jpg" alt="Profile"  
               className="w-80 h-80 rounded-full object-cover shadow-2xl hover:scale-110 hover:shadow-3xl transition-all duration-500 transform border-4 border-white ring-4 ring-blue-300"
               style={{ 
                 objectPosition: 'center center', 
