@@ -1,19 +1,21 @@
-✨ About This Portfolio
+# ✨ About This Portfolio
+
 This portfolio is a personal showcase of my journey as an engineer — combining curiosity, problem-solving, and technical creativity into one purposeful space. It highlights:
 
-🧠 My technical background — the foundations, tools, and concepts I’ve mastered
-
-💼 Professional experience and the roles I’ve taken on across different environments
-
-🚀 Projects I’ve built or contributed to — practical solutions, collaborative work, and innovation
-
-🏆 Achievements, certifications, and milestones that reflect my growth
-
-🛠️ A snapshot of my skills and tech stack, including languages, frameworks, and platforms
-
-🎯 What motivates me, how I approach challenges, and where I see myself making impact next
+- 🧠 My technical background — the foundations, tools, and concepts I’ve mastered  
+- 💼 Professional experience and the roles I’ve taken on across different environments  
+- 🚀 Projects I’ve built or contributed to — practical solutions, collaborative work, and innovation  
+- 🏆 Achievements, certifications, and milestones that reflect my growth  
+- 🛠️ A snapshot of my skills and tech stack, including languages, frameworks, and platforms  
+- 🎯 What motivates me, how I approach challenges, and where I see myself making impact next  
 
 Whether you’re a recruiter, teammate, or just exploring — welcome! This portfolio offers a window into how I think, work, and build.
+
+---
+
+## 🌐 Live Demo
+
+👉 [Click here to view the deployed portfolio](https://ramdheeraj33.github.io/my_portfolio/)
 
 ---
 
@@ -33,10 +35,10 @@ If you prefer working locally:
 
 ```bash
 # Step 1: Clone the repository
-git clone <YOUR_GIT_URL>
+git clone https://github.com/ramdheeraj33/my_portfolio.git
 
 # Step 2: Navigate to the project directory
-cd <YOUR_PROJECT_NAME>
+cd my_portfolio
 
 # Step 3: Install dependencies
 npm i
